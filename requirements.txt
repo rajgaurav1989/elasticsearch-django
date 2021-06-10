@@ -1,6 +1,6 @@
 certifi==2017.11.5
 chardet==3.0.4
-Django==1.8.17
+Django==2.2.24
 elasticsearch==5.5.1
 elasticsearch-dsl==6.1.0
 idna==2.5
